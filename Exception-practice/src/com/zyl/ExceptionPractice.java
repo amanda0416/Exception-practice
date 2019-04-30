@@ -2,7 +2,7 @@ package com.zyl;
 
 import java.util.Scanner;
 
-public class Exception {
+public class ExceptionPractice {
 
 	public static void main(String[] args) {
 		int bonus = 5000000 ;

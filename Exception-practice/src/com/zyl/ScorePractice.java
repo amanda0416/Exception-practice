@@ -9,10 +9,10 @@ public class ScorePractice {
 		int m = 0;
 		int e = 0;
 		try{
-			System.out.print("math score: ");
+			System.out.print("Please enter math score: ");
 			String math = scanner.nextLine();
 			m = Integer.parseInt(math);
-			System.out.print("english score: ");
+			System.out.print("Please enter english score: ");
 			String english = scanner.nextLine();
 			e = Integer.parseInt(english);
 			int a = (m + e)/2;
