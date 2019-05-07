@@ -1,4 +1,4 @@
-package com.zyl;
+package com.score;
 
 public class ScoreFormatException extends Exception {
 

@@ -1,4 +1,4 @@
-package com.zyl;
+package com.score;
 
 public class Score {
 	int value;

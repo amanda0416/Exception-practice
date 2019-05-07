@@ -1,4 +1,4 @@
-package com.zyl;
+package com.score;
 
 import java.util.Scanner;
 
